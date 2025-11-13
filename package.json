@@ -1,0 +1,12 @@
+{
+  "name": "dir-tree-viewer",
+  "version": "1.0.0",
+  "description": "CLI tool to print a visual directory tree",
+  "bin": {
+    "dir-tree": "./tree.js"
+  },
+  "scripts": {
+    "start": "node tree.js"
+  },
+  "license": "MIT"
+}
